@@ -23,4 +23,6 @@ How to open the application:
 * In command prompt in FinalPackage folder, run "serve -s build"
 * The application is now running!
 
+Old repository: https://github.com/Stupid13579/Cassandra2022Group1
+
 Last updated: 8/3/2022
