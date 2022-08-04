@@ -18,9 +18,9 @@ Prerequisites:
 How to open the application:
 * Download everything needed
 * Run Cassandra
-* Run the JAR
-* In command prompt in build folder, run "npm install -g serve"
-* In command prompt in build folder, run "serve -s build"
+* In command prompt in FinalPackage folder, run "java -jar spring-boot-cassandra.jar"
+* In command prompt in FinalPackage folder, run "npm install -g serve"
+* In command prompt in FinalPackage folder, run "serve -s build"
 * The application is now running!
 
 Last updated: 8/3/2022
